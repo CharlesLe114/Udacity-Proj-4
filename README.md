@@ -1,3 +1,4 @@
+[![CharlesLe114](https://circleci.com/gh/CharlesLe114/Udacity-Proj-4.svg?style=svg)](https://app.circleci.com/pipelines/github/CharlesLe114/Udacity-Proj-4/1/workflows/9295bf59-482f-45c5-a688-28a6b584c278)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
